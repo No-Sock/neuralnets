@@ -1,3 +1,4 @@
+
 # Seminar 1
 # Numpy fundamentals
 
